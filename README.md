@@ -10,7 +10,7 @@ This app demonstrates how the OpenAPI feature can be used along with JAXRS annot
 
 
 ### Getting Started
-1. Clone this repository
+1. Clone this repository 
 ```
 git clone https://github.com/microservices-api/oas3-airlines.git
 ```
